@@ -1,0 +1,10 @@
+name: legacy-pew
+displayName: Legacy Pew
+author: "[accent]MEEP of Faith"
+description:
+  '''
+  Bring back the old pew.
+  '''
+version: pew
+minGameVersion: 123
+hidden: true
