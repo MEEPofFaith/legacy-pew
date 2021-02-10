@@ -2,7 +2,7 @@ if(!Vars.headless){
   Vars.content.units().each(u => {
     if(u.minfo.mod === null){
       u.weapons.each(w => {
-        w.shootSound = Sounds.pew_;
+        if(w.shootSound == Sounds.pew) w.shootSound = Sounds.pew_;
       });
     }
   });
