@@ -6,5 +6,5 @@ description:
   Bring back the old pew.
   '''
 version: pew
-minGameVersion: 123
+minGameVersion: 124.1
 hidden: true
